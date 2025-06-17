@@ -1,0 +1,14 @@
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\bin\Debug\net9.0\lab5_1.exe
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\bin\Debug\net9.0\lab5_1.deps.json
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\bin\Debug\net9.0\lab5_1.runtimeconfig.json
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\bin\Debug\net9.0\lab5_1.dll
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\bin\Debug\net9.0\lab5_1.pdb
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\obj\Debug\net9.0\lab5_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\obj\Debug\net9.0\lab5_1.AssemblyInfoInputs.cache
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\obj\Debug\net9.0\lab5_1.AssemblyInfo.cs
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\obj\Debug\net9.0\lab5_1.csproj.CoreCompileInputs.cache
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\obj\Debug\net9.0\lab5_1.dll
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\obj\Debug\net9.0\refint\lab5_1.dll
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\obj\Debug\net9.0\lab5_1.pdb
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\obj\Debug\net9.0\lab5_1.genruntimeconfig.cache
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab5_1\obj\Debug\net9.0\ref\lab5_1.dll

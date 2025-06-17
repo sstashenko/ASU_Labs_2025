@@ -1,0 +1,14 @@
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\bin\Debug\net9.0\lab6.exe
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\bin\Debug\net9.0\lab6.deps.json
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\bin\Debug\net9.0\lab6.runtimeconfig.json
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\bin\Debug\net9.0\lab6.dll
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\bin\Debug\net9.0\lab6.pdb
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\obj\Debug\net9.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\obj\Debug\net9.0\lab6.AssemblyInfoInputs.cache
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\obj\Debug\net9.0\lab6.AssemblyInfo.cs
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\obj\Debug\net9.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\obj\Debug\net9.0\lab6.dll
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\obj\Debug\net9.0\refint\lab6.dll
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\obj\Debug\net9.0\lab6.pdb
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\obj\Debug\net9.0\lab6.genruntimeconfig.cache
+C:\Users\pidts\OneDrive\Desktop\sstashenko\АСУ sstashenko\lab6\obj\Debug\net9.0\ref\lab6.dll
